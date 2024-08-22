@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3-Debug-51de1102f10da7b64347.json",
+					"name" : "Lab3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que1-Debug-b3605ab211ca88e29f7c.json",
+					"name" : "que1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que2-Debug-f012d500c953826c8948.json",
+					"name" : "que2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que3-Debug-427fa14944d39636da0b.json",
+					"name" : "que3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que4-Debug-4ca58fd2ffc9015d3ab8.json",
+					"name" : "que4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que5-Debug-174e3fe2379c7f2285a3.json",
+					"name" : "que5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que6-Debug-adedd5726c2fc884e6fd.json",
+					"name" : "que6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que7-Debug-5fefc0e9af04e20cc9fc.json",
+					"name" : "que7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/allannguginganga./CLionProjects/Lab3/cmake-build-debug",
+		"source" : "/Users/allannguginganga./CLionProjects/Lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
